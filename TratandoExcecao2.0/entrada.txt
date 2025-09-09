@@ -1,0 +1,3 @@
+Primeira linha do meu arquivo.
+Testando o tratamento de exceções em Java.
+Fim.
